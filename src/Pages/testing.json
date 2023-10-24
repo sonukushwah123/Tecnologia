@@ -1,0 +1,321 @@
+{
+  "message": [
+      {
+          "id": 1,
+          "header": [
+              {
+                  "id": 1,
+                  "logoSection": [
+                      {
+                          "id": 2,
+                          "title": "home logo",
+                          "logo": "logo1684742328361Screenshot 2023-03-23 182734.png",
+                          "inverseLogo": "inverseLogo1684742328368Screenshot 2023-03-25 164831.png",
+                          "tooltip": "this is home logo",
+                          "status": 1
+                      }
+                  ],
+                  "menuSection": [
+                      {
+                          "id": 1,
+                          "title": "home menu",
+                          "menu": [
+                              {
+                                  "id": 12,
+                                  "category": 0,
+                                  "name": "technology",
+                                  "url": "https://81.0.246.73/",
+                                  "level": 0,
+                                  "status": 1,
+                                  "slug": "technology"
+                              },
+                              {
+                                  "id": 13,
+                                  "category": 0,
+                                  "name": "industries",
+                                  "url": "https://front.getprowriter.com/",
+                                  "level": 0,
+                                  "status": 1,
+                                  "slug": "industries"
+                              }
+                          ],
+                          "type": "master",
+                          "status": 1
+                      }
+                  ],
+                  "type": "master",
+                  "title": "home headers",
+                  "status": 1
+              }
+          ],
+          "slider": [
+              {
+                  "id": 1,
+                  "title": "home slider",
+                  "slaiders": [
+                      {
+                          "id": 2,
+                          "image": "image1683549065592Screenshot 2023-05-01 161456.png",
+                          "heading": "creative web pixal2",
+                          "description": "hello i am bablu saini",
+                          "btnText": "get startedd",
+                          "btnUrl": "http://localhost:5000",
+                          "status": 1
+                      },
+                      {
+                          "id": 3,
+                          "image": "image1683549223387Screenshot_20230208_155219.png",
+                          "heading": "thourghts and reality",
+                          "description": "thourghts and reality",
+                          "btnText": "pleasse check",
+                          "btnUrl": "http://localhost:5000/addSlider",
+                          "status": 1
+                      }
+                  ],
+                  "status": 1,
+                  "type": "master"
+              }
+          ],
+          "client": [
+              {
+                  "id": 2,
+                  "title": "home clients",
+                  "clients": [
+                      {
+                          "id": 2,
+                          "frountLogo": "frountLogo1683538662210Screenshot 2023-03-15 012027.png",
+                          "backLogo": "backLogo1683538662214Screenshot 2023-03-23 182734.png",
+                          "backgroundImage": "backgroundImage1683538662223Screenshot_20221126_010447.png",
+                          "status": 1,
+                          "description": "hello i am bablu saini"
+                      },
+                      {
+                          "id": 3,
+                          "frountLogo": "frountLogo1683540646211Screenshot_20230208_155204.png",
+                          "backLogo": "backLogo1683540646222Screenshot_20230204_110237.png",
+                          "backgroundImage": "backgroundImage1683540646278Screenshot_20230210_185357.png",
+                          "status": 1,
+                          "description": "description"
+                      },
+                      {
+                        "id": 4,
+                        "frountLogo": "frountLogo1683540646211Screenshot_20230208_155204.png",
+                        "backLogo": "backLogo1683540646222Screenshot_20230204_110237.png",
+                        "backgroundImage": "backgroundImage1683540646278Screenshot_20230210_185357.png",
+                        "status": 1,
+                        "description": "description"
+                    }
+                  ],
+                  "status": 1,
+                  "type": "master"
+              }
+          ],
+          
+          "successStory": [
+              {
+                  "id": 1,
+                  "title": "home success story",
+                  "successStory": [
+                      {
+                          "id": 1,
+                          "section": "success storiess",
+                          "title": "touch notch mobile",
+                          "sub_title": "cyber security",
+                          "description": "hello i am bablu saini",
+                          "btnText": "read more",
+                          "btnUrl": "http://localhost:5000/addSlider",
+                          "image": "image1683893038720Screenshot 2023-03-15 012046.png",
+                          "status": 1
+                      }
+                  ],
+                  "status": 1,
+                  "type": "master"
+              }
+          ],
+          "technologies": [
+              {
+                  "id": 3,
+                  "title": "development technologies",
+                  "technologies": [
+                      {
+                          "id": 3,
+                          "image": "image1683874930657Screenshot 2023-03-23 182734.png",
+                          "title": "cloud services",
+                          "url": "https://front.getprowriter.com",
+                          "status": 1,
+                          "slug": "cloud-services"
+                      },
+                      {
+                          "id": 6,
+                          "image": "image1684646745172Screenshot 2023-05-09 014152.png",
+                          "title": "Digital Transformation",
+                          "url": "https://81.0.246.73/",
+                          "status": 1,
+                          "slug": "digital-transformation"
+                      }
+                  ],
+                  "status": 1,
+                  "type": "master"
+              }
+          ],
+          "offering": [
+              {
+                  "id": 1,
+                  "title": "home offering",
+                  "offering": [
+                      {
+                          "id": 3,
+                          "frountLogo": "frountLogo1683875139966Screenshot 2023-03-23 182734.png",
+                          "backLogo": "backLogo1683875139977Screenshot 2023-05-09 014152.png",
+                          "heading": "EDI services",
+                          "description": "hello i am bablu saini",
+                          "url": "https://front.getprowriter.com/",
+                          "status": 1,
+                          "slug": "edi-services"
+                      },
+                      {
+                          "id": 4,
+                          "frountLogo": "frountLogo1684663155844Screenshot 2023-03-23 182734.png",
+                          "backLogo": "backLogo1684663155853Screenshot 2023-03-25 164745.png",
+                          "heading": "Mobility",
+                          "description": "hello i am bablu",
+                          "url": "https://getprowriter.onrender.com/dashboard",
+                          "status": 1,
+                          "slug": "mobility"
+                      },
+                      {
+                          "id": 5,
+                          "frountLogo": "frountLogo1684663734057Screenshot_20221228_134237.png",
+                          "backLogo": "backLogo1684663734061Screenshot 2023-05-09 014152.png",
+                          "heading": "softwere testing service",
+                          "description": "hello i am bablu",
+                          "url": "https://getprowriter.onrender.com/dashboard",
+                          "status": 1,
+                          "slug": "softwere-testing-service"
+                      }
+                  ],
+                  "status": 1,
+                  "type": "master"
+              }
+          ],
+          "industries": [
+              {
+                  "id": 1,
+                  "title": "home industries",
+                  "industries": [
+                      {
+                          "id": 3,
+                          "frountLogo": "frountLogo1683875293092Screenshot 2023-04-08 163133.png",
+                          "heading": "Education & E-learning",
+                          "description": "hello i am bablu",
+                          "url": "https://front.getprowriter.com/",
+                          "status": 1,
+                          "slug": "education-&-e-learning"
+                      },
+                      {
+                          "id": 5,
+                          "frountLogo": "frountLogo1684664733613Screenshot 2023-04-08 163526.png",
+                          "heading": "Logistics & Supply Chain",
+                          "description": "hello i am bablu",
+                          "url": "https://getprowriter.onrender.com/",
+                          "status": 1,
+                          "slug": "logistics-&-supply-chain"
+                      }
+                  ],
+                  "status": 1,
+                  "type": "master"
+              }
+          ],
+          "award": [
+              {
+                  "id": 1,
+                  "title": "home awards",
+                  "awards": [
+                      {
+                          "id": 1,
+                          "image": "image1683712781910Screenshot 2023-05-09 014152.png",
+                          "status": 1
+                      },
+                      {
+                          "id": 3,
+                          "image": "image1684666224558Screenshot_20230204_110237.png",
+                          "status": 1
+                      },
+                      {
+                          "id": 4,
+                          "image": "image1684666232402Screenshot_20221112_223728.png",
+                          "status": 1
+                      }
+                  ],
+                  "status": 1,
+                  "type": "master"
+              }
+          ],
+          "blog": [
+              {
+                  "id": 1,
+                  "title": "home blogs",
+                  "blogs": [
+                      {
+                          "id": 1,
+                          "title": "How to Build A Taxi Booking App like Uber",
+                          "btn_text": "read more",
+                          "btn_url": "http://localhost:5000/",
+                          "status": 1,
+                          "slug": "how-to-build-a-taxi-booking-app-like-uber"
+                      },
+                      {
+                          "id": 3,
+                          "title": "How to Develop Trucking Management Software",
+                          "btn_text": "get started",
+                          "btn_url": "http://localhost:5000/addSlider",
+                          "status": 1,
+                          "slug": "how-to-develop-trucking-management-software"
+                      }
+                  ],
+                  "status": 1,
+                  "type": "master"
+              }
+          ],
+          "title": "home page",
+          "type": "master",
+          "status": 1,
+          "headerSr": 1,
+          "sliderSr": 2,
+          "clientSr": 3,
+          "successStorySr": 4,
+          "technologiesSr": 5,
+          "offeringSr": 6,
+          "industriesSr": 7,
+          "awardsSr": 8,
+          "blogSr": 9,
+          "Count": [
+              {
+                  "headerSr": 1,
+                  "sliderSr": 2,
+                  "clientSr": 3,
+                  "successStorySr": 4,
+                  "technologiesSr": 5,
+                  "offeringSr": 6,
+                  "industriesSr": 7,
+                  "awardsSr": 8,
+                  "blogSr": 9
+              }
+          ]
+      }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
